@@ -1,7 +1,7 @@
 # ویکی آزاد ودرینگ ویوز
 
 <p align="end">
-  <img alt="Go" src="https://persian-badge.vercel.app/api/badge/گو-00ADD8?logo=go&logoColor=white">
+  <img alt="Csharp" src="https://persian-badge.vercel.app/api/badge/گو-00ADD8?logo=go&logoColor=white">
   <img alt="Star" src="https://persian-badge.vercel.app/api/github/stars/GachaIR/wutheringwaves?logoColor=white">
   <img alt="Contributors" src="https://persian-badge.vercel.app/api/github/contributors/GachaIR/wutheringwaves?logoColor=white">
 </p>
