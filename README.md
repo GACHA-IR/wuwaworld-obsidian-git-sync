@@ -35,6 +35,6 @@
 
 ## مجوز پروژه و سایر مجوزات
 
-- مجوز کتاب زبان گو فارسی از نوع[ Creative Commons Zero v1.0 Universal](https://github.com/GachaIR/wutheringwaves/blob/main/LICENSE) می‌باشد.
+- مجوز کتاب از نوع[ Creative Commons Zero v1.0 Universal](https://github.com/GachaIR/wutheringwaves/blob/main/LICENSE) می‌باشد.
 - فونت وزیر مجوز OFL
 - فونت Jetbrains mono با مجوز OFL
