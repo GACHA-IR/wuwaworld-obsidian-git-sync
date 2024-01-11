@@ -2,17 +2,16 @@
 
 <p align="end">
   <img alt="Csharp" src="https://persian-badge.vercel.app/api/badge/سی شارپ-00ADD8?logo=Csharp&logoColor=white">
-  <img alt="Star" src="https://persian-badge.vercel.app/api/github/stars/GachaIR/wutheringwaves?logoColor=white">
-  <img alt="Contributors" src="https://persian-badge.vercel.app/api/github/contributors/GachaIR/wutheringwaves?logoColor=white">
+  <img alt="Star" src="https://persian-badge.vercel.app/api/github/stars/GACHA-IR/wutheringwaves?logoColor=white">
+  <img alt="Contributors" src="https://persian-badge.vercel.app/api/github/contributors/GACHA-IR/wutheringwaves?logoColor=white">
 </p>
 
-**ویکی ودرینگ ویوز** به بطور عمیق از مفاهیم پایه تا مفاهیم کاملا پیشرفته و تکنیکی مانند: لور، پارادایم ها، همزمانی (پایه تا پیشرفته) و همچنین ساختار داده و الگوهای طراحی و ... می پردازد تا روورها درک عمیق و کامل از بازی ودرینگ ویوز داشته باشند.
+**ویکی ودرینگ ویوز** به بطور عمیق از مفاهیم پایه تا مفاهیم کاملا پیشرفته و تکنیکی مانند: پارادایم ها، لور، همزمانی (پایه تا پیشرفته) و همچنین الگوهای طراحی و ... می‌پردازد تا روورها درک عمیق و کامل از بازی ودرینگ ویوز داشته باشند.
 
 ودرینگ ویوز متمرکز بر اکسپلور، اوپن ورلدی استوری ریچ، با ازادی عمل بالا در گیم پلی و مبارزه می‌باشد. مریخ‌نوردان بعد از خوابی طولانی بیدار شده‌اند و با عنوانی تحمیل شده، سرگردان در دنیایی پسا اخرزمانی که از ساختار و فناوری های جدید تشکیل شده به ماجراجویی میپردازند.
-
 بازی ودرینگ ویوز کراس پلتفرم ارائه می‌شود؛ این بازی علاوه بر ارائه نسخه موبایل، برای پیسی و کنسول هم عرضه خواهد شد.
 
-این کتاب برای کسانی که میخواهند به بازی ودرینگ ویوز مسلط شوند یا اینکه افرادی با تجربه در ودرینگ ویوز هستند مناسب می باشد. همچنین اگر قصد دارید ودرینگ ویوز را به عنوان استک جدید شروع کنید این کتاب یک راهنمای کلی برای یادگیری آن خواهد بود.
+کتاب ودرینگ ویوز برای کسانی که می‌خواهند به بازی و لور ودرینگ ویوز مسلط شوند یا اینکه افرادی با تجربه در ودرینگ ویوز هستند مناسب می‌باشد. همچنین اگر قصد دارید ودرینگ ویوز را به عنوان استک جدید شروع کنید این کتاب یک راهنمای کلی برای یادگیری آن خواهد بود.
 
 ### لیست سرورهای کمکی
 
@@ -21,7 +20,7 @@
 - سرور ایران ۳ : https://ir3-wiki.wutheringwaves.ir
 
 
-### دانلود نسخه های آنلاین و آفلاین کتاب
+### دانلود نسخه های آنلاین و آفلاین کتاب (بزودی)
 
 [![direct download](static/assets/img/dl/dl.png)](https://github.com/GachaIR/android-book/releases) [![myket](static/assets/img/dl/myket.png)](https://myket.ir/app/com.farsi.book) [![cafebazzar](static/assets/img/dl/bazzar.png)](https://cafebazaar.ir/app/com.gofarsi.book) [![docker](static/assets/img/dl/docker.png)](https://hub.docker.com/r/farsi/book) [![linux](static/assets/img/dl/linux.png)](https://github.com/Farsi/book/releases) [![windows](static/assets/img/dl/windows.png)](https://github.com/Farsi/book/releases) [![mac](static/assets/img/dl/mac.png)](https://github.com/Farsi/book/releases)
 
