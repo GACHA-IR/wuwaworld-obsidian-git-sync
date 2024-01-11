@@ -13,7 +13,7 @@
 ودرینگ ویوز متمرکز بر اکسپلور، اوپن ورلدی استوری ریچ، با ازادی عمل بالا در گیم پلی و مبارزه می‌باشد. مریخ‌نوردان بعد از خوابی طولانی بیدار شده‌اند و با عنوانی تحمیل شده، سرگردان در دنیایی پسا اخرزمانی که از ساختار و فناوری های جدید تشکیل شده به ماجراجویی میپردازند.
 بازی ودرینگ ویوز کراس پلتفرم ارائه می‌شود؛ این بازی علاوه بر ارائه نسخه موبایل، برای پیسی و کنسول هم عرضه خواهد شد.
 
-### لیست سرورهای کمکی
+### لیست سرورهای کمکی (ترمینال)
 
 - سرور ایران ۱ : https://ir1-wiki.wutheringwaves.ir
 - سرور ایران ۲ : https://ir2-wiki.wutheringwaves.ir
@@ -31,10 +31,10 @@
 
 ## مشارکت در بهبود کتاب
 
-اگر قصد دارید برای بهبود یا اشتراک گذاری تجربه خود در کتاب مشارکت کنید کافیه [توضیحات و راهنمای مشارکت](https://github.com/GachaIR/wutheringwaves/blob/main/COUNTRIBUTING.md) را حتما مطالعه کنید.
+اگر قصد دارید برای بهبود یا اشتراک گذاری تجربه خود در کتاب مشارکت کنید کافیه [توضیحات و راهنمای مشارکت](https://github.com/GACHA-IR/wuwaworld-obsidian-git-sync/blob/main/COUNTRIBUTING.md) را حتما مطالعه کنید.
 
 ## مجوز پروژه و سایر مجوزات
 
-- مجوز کتاب از نوع[ Creative Commons Zero v1.0 Universal](https://github.com/GachaIR/wutheringwaves/blob/main/LICENSE) می‌باشد.
+- مجوز کتاب ودرینگ ویوز از نوع[ Creative Commons Zero v1.0 Universal](https://github.com/GACHA-IR/wuwaworld-obsidian-git-sync/blob/main/LICENSE) می‌باشد.
 - فونت وزیر مجوز OFL
 - فونت Jetbrains mono با مجوز OFL
