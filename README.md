@@ -22,7 +22,7 @@
 
 ### دانلود نسخه های آنلاین و آفلاین کتاب (بزودی)
 
-[![direct download](static/assets/img/dl/dl.png)](https://github.com/GachaIR/android-book/releases) [![myket](static/assets/img/dl/myket.png)](https://myket.ir/app/com.farsi.book) [![cafebazzar](static/assets/img/dl/bazzar.png)](https://cafebazaar.ir/app/com.gofarsi.book) [![docker](static/assets/img/dl/docker.png)](https://hub.docker.com/r/farsi/book) [![linux](static/assets/img/dl/linux.png)](https://github.com/Farsi/book/releases) [![windows](static/assets/img/dl/windows.png)](https://github.com/Farsi/book/releases) [![mac](static/assets/img/dl/mac.png)](https://github.com/Farsi/book/releases)
+[![direct download](static/assets/img/dl/dl.png)](https://github.com/GachaIR/android-book/releases) [![myket](static/assets/img/dl/myket.png)](https://myket.ir/app/com.wuwafarsi.book) [![cafebazzar](static/assets/img/dl/bazzar.png)](https://cafebazaar.ir/app/com.wuwafarsi.book) [![docker](static/assets/img/dl/docker.png)](https://hub.docker.com/r/wuwafarsi/book) [![linux](static/assets/img/dl/linux.png)](https://github.com/WuwaFarsi/book/releases) [![windows](static/assets/img/dl/windows.png)](https://github.com/WuwaFarsi/book/releases) [![mac](static/assets/img/dl/mac.png)](https://github.com/WuwaFarsi/book/releases)
 
 - نسخه اندروید (بازار یا مایکت) بصورت آنلاین می باشد پس از بازدید در هر بخش کش می‌شود.
 - نسخه داکر ایمیج براساس هر فصل بروز می شود و به نسبت نسخه های دسکتاپ و سایر پلت فرم ها دیرتر آپدیت می‌شود.
