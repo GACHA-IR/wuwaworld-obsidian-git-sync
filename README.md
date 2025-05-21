@@ -1,7 +1,6 @@
 # ویکی آزاد ودرینگ ویوز
 
 <p align="end">
-  <img alt="Csharp" src="https://persian-badge.vercel.app/api/badge/سی شارپ-00ADD8?logo=Csharp&logoColor=white">
   <img alt="Star" src="https://persian-badge.vercel.app/api/github/stars/GACHA-IR/wutheringwaves?logoColor=white">
   <img alt="Contributors" src="https://persian-badge.vercel.app/api/github/contributors/GACHA-IR/wutheringwaves?logoColor=white">
 </p>
